@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/50/57/PsnYoh.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: crimson;
+}
+
+button {
+    border: black 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.container{
+    background-color: wheat;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    border: saddlebrown;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: brown;
+}
+
